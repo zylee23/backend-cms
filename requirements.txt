@@ -1,0 +1,10 @@
+Django>=3.2.4,<3.3
+djangorestframework>=3.12.4,<3.13
+psycopg2>=2.8.6,<2.9
+drf-spectacular>=0.15.1,<0.16
+pylint>=2.14.5,<2.15
+autopep8>=1.6.0,<1.7.0
+django-environ>=0.9.0,<1.0
+django-cors-headers>=3.13.0,<3.14.0
+deepspeech>=0.9.3,<0.10
+av>=9.2.0,<9.4.0
